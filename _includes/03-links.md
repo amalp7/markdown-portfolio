@@ -1,1 +1,1 @@
-https://github.com/amalp7/intro-html
+[GitHub](http://github.com)
